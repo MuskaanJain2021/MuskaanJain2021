@@ -44,7 +44,7 @@
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
--->
+
 
 ### Contact me:
 <a href="https://www.linkedin.com/in/muskaan-jain-2b4b3b224/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="[/in/muskaan-jain-2b4b3b224/](https:///https://www.linkedin.com/in/muskaan-jain-2b4b3b224/)" height="30" width="120" /></a>
