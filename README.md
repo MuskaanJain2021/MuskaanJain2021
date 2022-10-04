@@ -20,4 +20,4 @@
 ### Stats:
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanJain2021&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MuskaanJain2021" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuskaanJain2021&show_icons=true&locale=en&theme=tokyonight" alt="MuskaanJain2021"/> </p>
-Credits: [Muskaan Jain]([https://github.com/Isha2103](https://github.com/MuskaanJain2021))
+Credits: [Muskaan Jain]([(https://github.com/MuskaanJain2021)](https://github.com/MuskaanJain2021))
