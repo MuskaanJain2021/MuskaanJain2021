@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C32BAD&size=24&vCenter=true&width=500&height=28&lines=Hey+there%2C+I'm+Muskaan+Jain)](https://git.io/typing-svg)
 
 ### About me:
--I'm a final year undergraduate Electronics & Communication student at Manipal University Jaipur. I am very passionate about building Innovative Embedded projects , which follows problem-solution based approach. I am currently learning about Os basics,networking,linux,and working on improvising my coding skills.
+
 <br>
 </br>
 
