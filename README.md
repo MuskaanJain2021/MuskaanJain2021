@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C32BAD&size=24&vCenter=true&width=500&height=28&lines=Hey+there%2C+I'm+Muskaan+Jain)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there👋, I'm Muskaan Jain</h1>
+
 <h3 align="center">A Passionate Embedded Systems Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaanjain2021&label=Profile%20views&color=0e75b6&style=flat" alt="muskaanjain2021" /> </p>
