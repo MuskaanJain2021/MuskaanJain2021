@@ -1,41 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C32BAD&size=24&vCenter=true&width=500&height=28&lines=Hey+there%2C+I'm+Muskaan+Jain)](https://git.io/typing-svg)
 
-### About me:
+<h1 align="center">Hi there👋, I'm Muskaan Jain</h1>
+<h3 align="center">A Passionate Embedded Systems Enthusiast from India</h3>
 
-<br>
-</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaanjain2021&label=Profile%20views&color=0e75b6&style=flat" alt="muskaanjain2021" /> </p>
 
-<table width="100%" >
+- 🔭 I’m currently working on **Advanced String Processing Utility**
 
- <tr>
-    <td width="60%">
+- 🌱 I’m currently learning **Embedded C, PIC16f**
 
-## 🛠️ Skills
+- 📫 How to reach me **muskaanembed2023@gmail.com**
 
-#### Languages
+- ⚡ Fun fact **I'm not just a software whiz; I'm an embedded enthusiast who crafts code like a maestro, orchestrating a symphony of efficiency that makes microcontrollers sing in perfect harmony! 🎶💾💻**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/muskaan-jain-2b4b3b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muskaan-jain-2b4b3b224" height="30" width="40" /></a>
+</p>
 
-#### Database
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-
-#### Tools and Technologies
-
-
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-
-
-
-#### Data Analytics 
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
-
-</td>
-   
-#### Environments
+ Environments:
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
@@ -43,17 +29,13 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 
-### Contact me:
-<a href="https://www.linkedin.com/in/muskaan-jain-2b4b3b224/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="[/in/muskaan-jain-2b4b3b224/](https:///https://www.linkedin.com/in/muskaan-jain-2b4b3b224/)" height="30" width="120" /></a>
-</a>
-</p>
-<hr />
-
-### Stats:
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskaanJain2021&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MuskaanJain2021" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuskaanJain2021&show_icons=true&locale=en&theme=tokyonight" alt="MuskaanJain2021"/> </p>
 
 
 
 
-</br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/muskaanjain2021"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muskaanjain2021" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskaanjain2021&show_icons=true&locale=en&layout=compact" alt="muskaanjain2021" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanjain2021&" alt="muskaanjain2021" /></p>
