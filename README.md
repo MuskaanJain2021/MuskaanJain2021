@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Advanced String Processing Utility**
 
-- 🌱 I’m currently learning **Embedded C, PIC16f**
+- 🌱 I’m currently learning **Embedded C, STM32**
 
 - 📫 How to reach me **muskaanembed2023@gmail.com**
 
