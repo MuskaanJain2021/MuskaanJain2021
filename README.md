@@ -28,7 +28,7 @@
 ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-
+![MuskaanJain2021's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanJain2021&theme=vue-dark&hide_border=true)
 
 
 
