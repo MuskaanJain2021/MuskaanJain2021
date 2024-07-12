@@ -38,4 +38,4 @@
 
 <p><img align="center" src="![MuskaanJain2021's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanJain2021&theme=vue-dark&hide_border=true)" alt="muskaanjain2021" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanjain2021&" alt="muskaanjain2021" /></p>
+
