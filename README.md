@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaanjain2021&label=Profile%20views&color=0e75b6&style=flat" alt="muskaanjain2021" /> </p>
 
-- 🔭 I’m currently working on **Advanced String Processing Utility**
+- 🔭 I’m currently working on **Advanced String Processing Utility** And **FlexiStack Library**
 
 - 🌱 I’m currently learning **Embedded C, STM32**
 
