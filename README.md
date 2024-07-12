@@ -28,7 +28,7 @@
 ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-![MuskaanJain2021's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanJain2021&theme=vue-dark&hide_border=true)
+
 
 
 
@@ -36,6 +36,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/muskaanjain2021"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muskaanjain2021" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskaanjain2021&show_icons=true&locale=en&layout=compact" alt="muskaanjain2021" /></p>
+<p><img align="center" src="![MuskaanJain2021's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanJain2021&theme=vue-dark&hide_border=true)" alt="muskaanjain2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanjain2021&" alt="muskaanjain2021" /></p>
