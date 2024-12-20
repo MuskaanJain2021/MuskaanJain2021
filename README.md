@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Advanced String Processing Utility** And **FlexiStack Library**
 
-- 🌱 I’m currently learning **Embedded C, STM32**
+- 🌱 I’m currently learning **Embedded C,BareMetal ,STM32**
 
 - 📫 How to reach me **muskaanembed2023@gmail.com**
 
