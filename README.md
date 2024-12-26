@@ -50,6 +50,11 @@ Created a tool to detect and report memory leaks in C programs, aimed at improvi
 ### 🔹 **Stack-Based Memory Allocator (LIFO)**
 Developed a stack-based (LIFO) memory allocator for real-time operating systems, improving memory usage efficiency and reducing fragmentation.
 
+### 🔹 **Inverted Search**
+A high-performance full-text search engine utilizing an inverted index for rapid and efficient querying of extensive datasets. Optimizes search operations by mapping words to document locations using advanced data structures and hashing techniques.
+
+
+
 ---
 
 ## 🌟 Achievements
