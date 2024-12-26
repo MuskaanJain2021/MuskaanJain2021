@@ -10,13 +10,13 @@
 ## 🛠️ Technical Skills
 
 **Programming Languages:**  
-![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![Python](https://img.shields.io/badge/-Python-yellow) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-black)  
+![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![Python](https://img.shields.io/badge/-Python-yellow) 
 
 **Microcontrollers and Boards:**  
 STM32F407VGT6, PIC16877a, ATmega 2560  
 
 **Tools and Technologies:**  
-STM32CubeIDE, STM32CubeProgrammer, Arduino IDE, Vim, Makefiles, GCC, Valgrind, GDB, Linux Kernel, TCP/UDP, pThreads  
+STM32CubeIDE, STM32CubeProgrammer, Arduino IDE, Vim, Makefiles, GCC, Valgrind, GDB, Linux Internals, TCP/UDP, pThreads  
 
 **Protocols and Interfaces:**  
 UART/USART, I2C, SPI, DMA, NVIC, SysTick  
