@@ -28,11 +28,6 @@ Bare-metal Programming, API Development, Data Structures & Algorithms
 
 ## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MuskaanJain2021/FlexiStack">
-    <img src="https://github.com/MuskaanJain2021/FlexiStack/blob/main/project_image.jpg" width="400" alt="FlexiStack Project">
-  </a>
-</p>
 
 ### 🔹 **FlexiStack**
 Versatile stack implementation in C supporting multiple data types with dynamic resizing for efficient memory management.
