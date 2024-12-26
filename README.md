@@ -1,39 +1,89 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C32BAD&size=24&vCenter=true&width=500&height=28&lines=Hey+there%2C+I'm+Muskaan+Jain)](https://git.io/typing-svg)
-
-
-<h3 align="center">A Passionate Embedded Systems Enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaanjain2021&label=Profile%20views&color=0e75b6&style=flat" alt="muskaanjain2021" /> </p>
-
-- 🔭 I’m currently working on **Advanced String Processing Utility** And **FlexiStack Library**
-
-- 🌱 I’m currently learning **Embedded C,BareMetal ,STM32**
-
-- 📫 How to reach me **muskaanembed2023@gmail.com**
-
-- ⚡ Fun fact **I'm not just a software whiz; I'm an embedded enthusiast who crafts code like a maestro, orchestrating a symphony of efficiency that makes microcontrollers sing in perfect harmony! 🎶💾💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muskaan-jain-2b4b3b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muskaan-jain-2b4b3b224" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&color=F7F7F7&background=000000&center=true&vCenter=true&width=440&lines=Hello%2C+I'm+Muskaan+Jain!+%F0%9F%91%8B" alt="Muskaan Jain">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center">Embedded Systems Engineer | Firmware Developer | System Programmer</h2>
+<h3 align="center">🎓 B.Tech in Electronics and Communication | Manipal University</h3>
 
-<h3 align="left">Environments:</h3> 
+---
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
+## 🛠️ Technical Skills
 
+**Programming Languages:**  
+![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![Python](https://img.shields.io/badge/-Python-yellow) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-black)  
 
+**Microcontrollers and Boards:**  
+STM32F407VGT6, PIC16877a, ATmega 2560  
 
+**Tools and Technologies:**  
+STM32CubeIDE, STM32CubeProgrammer, Arduino IDE, Vim, Makefiles, GCC, Valgrind, GDB, Linux Kernel, TCP/UDP, pThreads  
 
+**Protocols and Interfaces:**  
+UART/USART, I2C, SPI, DMA, NVIC, SysTick  
 
+**Other Skills:**  
+Bare-metal Programming, API Development, Data Structures & Algorithms  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/muskaanjain2021"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muskaanjain2021" /></a></p><br><br>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuskaanJain2021&theme=vue-dark&hide_border=true" alt="muskaanjain2021" /></p>
+## 📂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MuskaanJain2021/FlexiStack">
+    <img src="https://github.com/MuskaanJain2021/FlexiStack/blob/main/project_image.jpg" width="400" alt="FlexiStack Project">
+  </a>
+</p>
+
+### 🔹 **FlexiStack**
+Versatile stack implementation in C supporting multiple data types with dynamic resizing for efficient memory management.
+
+### 🔹 **Multitasking on STM32F407VGT6**
+Developed a bare-metal multitasking system integrating DMA, SysTick, UART, and NVIC for efficient task management.
+
+### 🔹 **Automatic Temperature Detector**
+Designed a Covid safety system using ATmega 2560 and MLX90614 sensor, implementing access control and temperature monitoring.
+
+### 🔹 **TCP/IP Chat Application**
+Developed a client/server chat system using C, Linux Sockets (TCP/IP), and IPv4.
+
+### 🔹 **Steganography Project**
+Implemented a method to hide and retrieve encrypted data within digital images, enhancing data security and privacy. Employed advanced algorithms for efficient data encoding and decoding.
+
+### 🔹 **Memory Leak Detector**
+Created a tool to detect and report memory leaks in C programs, aimed at improving software reliability and performance.
+
+### 🔹 **Stack-Based Memory Allocator (LIFO)**
+Developed a stack-based (LIFO) memory allocator for real-time operating systems, improving memory usage efficiency and reducing fragmentation.
+
+---
+
+## 🌟 Achievements
+
+- **Emertxe Certified Embedded Professional (ECEP)**
+- Co-author of publication in **Journal of Non-Linear Optical Physics & Materials**
+
+---
+
+## 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuskaanJain2021&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanJain2021&layout=compact&theme=radical">
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/muskaan-jain-embedded">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn">
+  </a>
+  <a href="https://github.com/MuskaanJain2021">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub">
+  </a>
+</p>
+
+<p align="center">
+  ✨ *“I believe in making complex technology simpler for the next generation of inventors.”* ✨
+</p>
