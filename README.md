@@ -36,7 +36,7 @@ Versatile stack implementation in C supporting multiple data types with dynamic 
 Developed a bare-metal multitasking system integrating DMA, SysTick, UART, and NVIC for efficient task management.
 
 ### 🔹 **Automatic Temperature Detector**
-Designed a Covid safety system using ATmega 2560 and MLX90614 sensor, implementing access control and temperature monitoring.
+Designed a Covid safety system using ATmega 2560 and MLX90614 sensor, implementing access control and temperature monitoring with HC-05 and dedicated website that filter outs abnormilities seen with location and parameters. Used LCD screen to send details on website and display here.
 
 ### 🔹 **TCP/IP Chat Application**
 Developed a client/server chat system using C, Linux Sockets (TCP/IP), and IPv4.
