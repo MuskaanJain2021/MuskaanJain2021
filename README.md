@@ -10,7 +10,7 @@
 ## 🛠️ Technical Skills
 
 **Programming Languages:**  
-![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![Python](https://img.shields.io/badge/-Python-yellow) 
+![C](https://img.shields.io/badge/-C-blue)
 
 **Microcontrollers and Boards:**  
 STM32F407VGT6, PIC16877a, ATmega 2560  
